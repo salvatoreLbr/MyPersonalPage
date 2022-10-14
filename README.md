@@ -1,2 +1,2 @@
 # MyPersonalPage
-My Personal Page
+WebApp for showing my professional and development information
